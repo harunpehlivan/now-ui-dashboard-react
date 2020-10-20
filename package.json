@@ -5,7 +5,7 @@
   "homepage": "https://timcreative.github.io/now-ui-dashboard-react",
   "dependencies": {
     "bootstrap": "4.0.0-beta",
-    "chart.js": "2.7.1",
+    "chart.js": "2.9.4",
     "history": "^4.7.2",
     "jquery": "^3.3.1",
     "node-sass-chokidar": "0.0.3",
